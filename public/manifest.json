@@ -1,0 +1,10 @@
+{
+  "name": "PB Trainer",
+  "short_name": "PB Trainer",
+  "description": "6-week paintball conditioning program",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#00ff6a",
+  "icons": []
+}
